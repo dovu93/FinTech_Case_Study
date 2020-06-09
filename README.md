@@ -4,7 +4,7 @@
 
 ## H2 description here
 
-(insert description for content)
+*We care about Alpacas!*
 
 ### **Plaid Case Study Proposal**
 
