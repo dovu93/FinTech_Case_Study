@@ -6,7 +6,7 @@
 
 (insert description for content)
 
-### Plaid Case Study Proposal
+### **Plaid Case Study Proposal**
 
 1. Plaid is a company that specializes in developing APIs for interacting with Banking systems. Visa bought them, making MasterCard eventually their rival. 
 
@@ -14,4 +14,4 @@
 
 3. Since plaid is so deeply enmeshed in the FinTech ecosystem, many people are likely to use the Plaid API. 
 
-4. asnwers
+4. They got bought out and are in retirement homes now.
